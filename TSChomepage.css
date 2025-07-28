@@ -1,0 +1,52 @@
+body{
+    background-color: #ea9ab2;
+}
+
+button {
+  border-radius: 25px;
+  border: none;
+  color: white;
+  margin: 10px;
+  padding: 10px 50px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  background-color: #e27396;
+}
+
+h1{
+    color: white;
+    font-family: monospace;
+    font-size: 4rem;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size: 2rem;
+    font-family: monospace;
+    text-align: center;
+}
+
+ol{
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+input{
+    text-align: center;
+    border-color: #e27396;
+    border-width: 10px;
+    font-size: 20px; 
+}
+
+marquee{
+    color: white;
+    font-size: 10px;
+    font-family: monospace;
+}
