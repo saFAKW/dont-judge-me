@@ -56,6 +56,8 @@ function timer() {
         time--;
     } else {
         clearInterval(time_interval);
+        test.style.display = 'none';
+        input.style.display = 'none';
         calc_speed();
     }
 }
